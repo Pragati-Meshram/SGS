@@ -1,1 +1,1 @@
-# SGS
+# SGS: Spectral Geometry Signature
